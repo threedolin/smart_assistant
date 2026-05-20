@@ -1,6 +1,6 @@
-# Smart Helper Ollama
+# Smart Assistant
 
-**Smart Helper Ollama** — это однофайловый локальный AI-помощник на Python с графическим интерфейсом PyQt6.  
+**Smart Assistant** — это однофайловый локальный AI-помощник на Python с графическим интерфейсом PyQt6.  
 Приложение работает через локальную модель **Ollama** и не требует OpenAI API.
 
 ## Возможности
